@@ -1,0 +1,46 @@
+Baixo custo - Intel
+
+Processador: Core i3-2100 (Cache3M, 3.10 Ghz)
+Placa mãe: PLACA MAE FOXCOMM 1155 H61 ISYNC-19-ECH61 VGA HDMI
+Memória Principal: 4GB DDR3 1600 MHZ
+Memória Secundária: 4GB DDR3 1333 MHZ
+
+Médio custo - Intel
+Processador: Core i5-10400f, Cache 12MB, 2.9GHz, 
+Placa mãe: Gigabyte H410M H, Intel LGA1200, Micro ATX, DDR4, 32Gb
+Memória Principal: 8 Gb 2666 Mhz Kingston Fury DDR4
+Memória Secundária: 8 Gb 2666 Mhz Kingston Fury DDR4
+Placa de Video: GeForce GT 1030 2GD4 LP OC
+
+Alto custo - Intel
+Processador: I7 10700 LGA 1200 
+Placa mãe: Gigabyte B560M AORUS ELITE
+Memória Principal: DDR4 8Gb 2666 Mhz 
+Memória Secundária: DDR4 8 Gb 2666 Mhz 
+Placa de Video: GEFORCE RTX 3090
+
+########################################################################
+
+Baixo Custo - AMD
+
+Processador: A6-9500 3.5Ghz
+Placa mãe: A320M hipset A320 AMD AM4 mATX DDR4
+Memória Principal: DDR4 2400 MHz
+Memória Secundária: DDR4 2133 MHz
+
+Médio Custo - AMD
+
+Processador:  AMD Ryzer 5 PRO 4650G 3.7GHz
+Placa mãe: Asus Prime B450M-A AM4 90MB0YR0-M0EAY0
+Memória Principal: ‎DDR4 8Gb SDRAM 3200 MHz
+Memória Secundária: ‎DDR4 8Gb SDRAM 3200 MHz
+Placa de Video: RTX 2060 Super 8gb ou a RTX 3060 12gb
+
+Alto Custo - AMD
+
+Processador:  Ryzen 7 5800X, Cache 36MB, 3.8GHz (4.7GHz Max Turbo)
+Placa mãe: Asus TUF Gaming B550M Plus B550 AM4 DDR4 Ryzen
+Memória Principal: ‎DDR4 16Gb SDRAM 3200 MHz
+Memória Secundária: ‎DDR4 16Gb SDRAM 3200 MHz
+Placa de Video: NVIDIA GeForce GTX 1650, 12 Gbps, 4GB, GDDR6 - TUF-GTX1650-4GD6-GAMING
+
